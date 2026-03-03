@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi! I'm Lukas, a third-year IT engineering student from Poland with a passion for creating innovative software solutions. I currently work as a Technical Piping Designer at Fluor S.A., where I combine technical expertise with project management. I'm currently working on full-stack web applications and mobile development projects. I'm looking to collaborate on open-source projects and modern web frameworks. I'm looking for help with advanced containerization and microservices architecture. I'm currently learning Docker, Kubernetes, and cloud deployment strategies. Ask me about React, Java, SQL, piping design, or automotive systems. Fun fact: I combine coding with interests in automotive mechanics, game development, and drone photography.<br>
 
 
