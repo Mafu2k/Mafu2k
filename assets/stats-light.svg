@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title">
+  <title id="title">Mafu2k's GitHub stats</title>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .title { font-size: 18px; font-weight: 600; fill: #0969da; }
+    .value { font-size: 26px; font-weight: 600; }
+    .label { font-size: 13px; fill: #59636e; }
+    .accent { fill: #bc4c00; }
+    .lang { font-size: 13px; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="25" y="38" class="title">Mafu2k's GitHub Stats</text>
+  <text x="82.5" y="92" text-anchor="middle" class="value">0</text>
+  <text x="82.5" y="112" text-anchor="middle" class="label">Total stars</text>
+  <text x="247.5" y="92" text-anchor="middle" class="value">148</text>
+  <text x="247.5" y="112" text-anchor="middle" class="label">Commits (all time)</text>
+  <text x="412.5" y="92" text-anchor="middle" class="value">2</text>
+  <text x="412.5" y="112" text-anchor="middle" class="label">Pull requests</text>
+  <text x="82.5" y="152" text-anchor="middle" class="value">21</text>
+  <text x="82.5" y="172" text-anchor="middle" class="label">Public repos</text>
+  <text x="247.5" y="152" text-anchor="middle" class="value">14</text>
+  <text x="247.5" y="172" text-anchor="middle" class="label">Issues</text>
+  <text x="412.5" y="152" text-anchor="middle" class="value">0</text>
+  <text x="412.5" y="172" text-anchor="middle" class="label">Contributed to</text>
+</svg>
