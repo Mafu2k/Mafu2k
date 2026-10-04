@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title">
-  <title id="title">Most used languages: JavaScript 26.8%, HTML 14.5%, Kotlin 14.1%, TypeScript 11.5%, CSS 9.0%, Java 8.1%, C# 7.1%, Other 8.9%</title>
+  <title id="title">Most used languages: JavaScript 26.4%, HTML 14.4%, Kotlin 13.9%, TypeScript 11.4%, CSS 8.9%, Java 8.0%, C# 7.0%, Other 10.0%</title>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #e6edf3; }
     .title { font-size: 18px; font-weight: 600; fill: #58a6ff; }
@@ -13,29 +13,29 @@
   <clipPath id="bar"><rect x="25" y="58" width="445" height="8" rx="4"/></clipPath>
   <g clip-path="url(#bar)">
     <rect x="25" y="58" width="445" height="8" fill="#21262d"/>
-    <rect x="25.00" y="58" width="119.12" height="8" fill="#f1e05a"/>
-    <rect x="144.12" y="58" width="64.72" height="8" fill="#e34c26"/>
-    <rect x="208.84" y="58" width="62.56" height="8" fill="#A97BFF"/>
-    <rect x="271.40" y="58" width="51.32" height="8" fill="#3178c6"/>
-    <rect x="322.72" y="58" width="39.88" height="8" fill="#663399"/>
-    <rect x="362.60" y="58" width="36.08" height="8" fill="#b07219"/>
-    <rect x="398.68" y="58" width="31.58" height="8" fill="#7355dd"/>
-    <rect x="430.26" y="58" width="39.74" height="8" fill="#8b949e"/>
+    <rect x="25.00" y="58" width="117.68" height="8" fill="#f1e05a"/>
+    <rect x="142.68" y="58" width="63.94" height="8" fill="#e34c26"/>
+    <rect x="206.62" y="58" width="61.80" height="8" fill="#A97BFF"/>
+    <rect x="268.42" y="58" width="50.70" height="8" fill="#3178c6"/>
+    <rect x="319.13" y="58" width="39.39" height="8" fill="#663399"/>
+    <rect x="358.52" y="58" width="35.65" height="8" fill="#b07219"/>
+    <rect x="394.16" y="58" width="31.19" height="8" fill="#7355dd"/>
+    <rect x="425.36" y="58" width="44.64" height="8" fill="#8b949e"/>
   </g>
   <circle cx="30.0" cy="93.5" r="5" fill="#f1e05a"/>
-  <text x="43.0" y="98" class="lang">JavaScript <tspan fill="#8b949e">26.8%</tspan></text>
+  <text x="43.0" y="98" class="lang">JavaScript <tspan fill="#8b949e">26.4%</tspan></text>
   <circle cx="262.5" cy="93.5" r="5" fill="#e34c26"/>
-  <text x="275.5" y="98" class="lang">HTML <tspan fill="#8b949e">14.5%</tspan></text>
+  <text x="275.5" y="98" class="lang">HTML <tspan fill="#8b949e">14.4%</tspan></text>
   <circle cx="30.0" cy="118.5" r="5" fill="#A97BFF"/>
-  <text x="43.0" y="123" class="lang">Kotlin <tspan fill="#8b949e">14.1%</tspan></text>
+  <text x="43.0" y="123" class="lang">Kotlin <tspan fill="#8b949e">13.9%</tspan></text>
   <circle cx="262.5" cy="118.5" r="5" fill="#3178c6"/>
-  <text x="275.5" y="123" class="lang">TypeScript <tspan fill="#8b949e">11.5%</tspan></text>
+  <text x="275.5" y="123" class="lang">TypeScript <tspan fill="#8b949e">11.4%</tspan></text>
   <circle cx="30.0" cy="143.5" r="5" fill="#663399"/>
-  <text x="43.0" y="148" class="lang">CSS <tspan fill="#8b949e">9.0%</tspan></text>
+  <text x="43.0" y="148" class="lang">CSS <tspan fill="#8b949e">8.9%</tspan></text>
   <circle cx="262.5" cy="143.5" r="5" fill="#b07219"/>
-  <text x="275.5" y="148" class="lang">Java <tspan fill="#8b949e">8.1%</tspan></text>
+  <text x="275.5" y="148" class="lang">Java <tspan fill="#8b949e">8.0%</tspan></text>
   <circle cx="30.0" cy="168.5" r="5" fill="#7355dd"/>
-  <text x="43.0" y="173" class="lang">C# <tspan fill="#8b949e">7.1%</tspan></text>
+  <text x="43.0" y="173" class="lang">C# <tspan fill="#8b949e">7.0%</tspan></text>
   <circle cx="262.5" cy="168.5" r="5" fill="#8b949e"/>
-  <text x="275.5" y="173" class="lang">Other <tspan fill="#8b949e">8.9%</tspan></text>
+  <text x="275.5" y="173" class="lang">Other <tspan fill="#8b949e">10.0%</tspan></text>
 </svg>
