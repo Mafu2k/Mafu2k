@@ -13,7 +13,7 @@
 
 ## 🙋 About me
 
-- 🧪 I build and maintain automated test suites at **ING Polska** (Java, JUnit, jPOS)
+- 🧪 I build and maintain automated test suites at **ING Polska** (Java, JUnit, JMeter, jPOS)
 - 💻 Working on full-stack web applications and mobile projects
 - 🌱 Currently learning **Docker, Kubernetes**, microservices and cloud deployment — tips welcome!
 - 🤝 Open to collaborating on open-source projects and modern web frameworks
@@ -22,7 +22,7 @@
 
 ## 🧪 Testing & QA
 
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-CD6E00?style=for-the-badge) ![REST Assured](https://img.shields.io/badge/REST%20Assured-4CAF50?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![jPOS](https://img.shields.io/badge/jPOS%20%28ISO%208583%29-1F4E79?style=for-the-badge)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-CD6E00?style=for-the-badge) ![REST Assured](https://img.shields.io/badge/REST%20Assured-4CAF50?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white) ![jPOS](https://img.shields.io/badge/jPOS%20%28ISO%208583%29-1F4E79?style=for-the-badge)
 
 ## 💻 Tech Stack
 
