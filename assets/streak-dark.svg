@@ -11,7 +11,7 @@
   <rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#0d1117" stroke="#30363d"/>
   <line x1="165.0" y1="30" x2="165.0" y2="165" stroke="#30363d"/>
   <line x1="330.0" y1="30" x2="330.0" y2="165" stroke="#30363d"/>
-  <text x="82.5" y="88" text-anchor="middle" class="value">187</text>
+  <text x="82.5" y="88" text-anchor="middle" class="value">216</text>
   <text x="82.5" y="120" text-anchor="middle" class="lang">Total Contributions</text>
   <text x="82.5" y="145" text-anchor="middle" class="label">Dec 1, 2020 – Present</text>
   <circle cx="247.5" cy="72" r="40" fill="none" stroke="#ffa657" stroke-width="5"/>
