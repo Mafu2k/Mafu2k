@@ -13,14 +13,14 @@
   <clipPath id="bar"><rect x="25" y="58" width="445" height="8" rx="4"/></clipPath>
   <g clip-path="url(#bar)">
     <rect x="25" y="58" width="445" height="8" fill="#21262d"/>
-    <rect x="25.00" y="58" width="121.40" height="8" fill="#f1e05a"/>
-    <rect x="146.40" y="58" width="65.08" height="8" fill="#e34c26"/>
-    <rect x="211.49" y="58" width="56.67" height="8" fill="#A97BFF"/>
-    <rect x="268.16" y="58" width="51.61" height="8" fill="#3178c6"/>
-    <rect x="319.78" y="58" width="40.10" height="8" fill="#663399"/>
-    <rect x="359.88" y="58" width="35.53" height="8" fill="#b07219"/>
-    <rect x="395.40" y="58" width="31.55" height="8" fill="#7355dd"/>
-    <rect x="426.96" y="58" width="43.04" height="8" fill="#8b949e"/>
+    <rect x="25.00" y="58" width="121.33" height="8" fill="#f1e05a"/>
+    <rect x="146.33" y="58" width="65.05" height="8" fill="#e34c26"/>
+    <rect x="211.38" y="58" width="56.64" height="8" fill="#A97BFF"/>
+    <rect x="268.02" y="58" width="51.58" height="8" fill="#3178c6"/>
+    <rect x="319.60" y="58" width="40.08" height="8" fill="#663399"/>
+    <rect x="359.68" y="58" width="35.66" height="8" fill="#b07219"/>
+    <rect x="395.33" y="58" width="31.53" height="8" fill="#7355dd"/>
+    <rect x="426.87" y="58" width="43.13" height="8" fill="#8b949e"/>
   </g>
   <circle cx="30.0" cy="93.5" r="5" fill="#f1e05a"/>
   <text x="43.0" y="98" class="lang">JavaScript <tspan fill="#8b949e">27.3%</tspan></text>
